@@ -1,5 +1,7 @@
 # Fine-Tune-BERT-for-Text-Classification-with-TensorFlow
- Fine Tune BERT for Text Classification with TensorFlow is divided into following tasks:  
+
+ Fine Tune BERT for Text Classification with TensorFlow is divided into following tasks: 
+ 
  Task 1: Introduction to the Project.
  
  Task 2:  Setup your TensorFlow and Colab Runtime .
