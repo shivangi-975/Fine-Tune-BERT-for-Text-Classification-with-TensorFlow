@@ -9,4 +9,5 @@
  Task 7:  Wrap a Python Function into a TensorFlow op for Eager Execution 
  Task 8: Create a TensorFlow Input Pipeline with tf.data 
  Task 9: Add a Classification Head to the BERT hub.KerasLayer 
- Task 10: Fine-Tune BERT for Text Classification  Task 11: Evaluate the BERT Text Classification Model
+ Task 10: Fine-Tune BERT for Text Classification  
+ Task 11: Evaluate the BERT Text Classification Model
